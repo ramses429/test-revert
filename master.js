@@ -1,5 +1,5 @@
 function showMasterBranch(){
-  console.log("only show a master branch this change solve any bugs");
+  console.log("only show a master branch");
 }
 
 function showNewConsolelog(){
