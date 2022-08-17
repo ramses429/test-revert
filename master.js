@@ -3,7 +3,7 @@ function showMasterBranch(){
 }
 
 function showNewConsolelog(){
-  console.log("New console log is available");
+  console.log("New console log is available the problem is here solve naw");
 }
 
 function solveTheBug(){
