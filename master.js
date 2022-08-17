@@ -1,7 +1,3 @@
 function showMasterBranch(){
-  console.log("only show a master branch");
-}
-
-function showNewConsolelog(){
-  console.log("New console log is available");
+  console.log("Master branch is available");
 }
