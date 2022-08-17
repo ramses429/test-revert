@@ -5,3 +5,7 @@ function showMasterBranch(){
 function showNewConsolelog(){
   console.log("New console log is available");
 }
+
+function solveTheBug(){
+  console.log("Solving the bug...");
+}
